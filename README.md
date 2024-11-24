@@ -1,14 +1,12 @@
 # Análise e previsão de faturamento
-Este é um projeto foi feito através de dados de faturamento de filiais de venda de açai, podendo trazer insides e a previsão de faturamento com Arima
-
+Este projeto foi desenvolvido a partir de dados de faturamento de filiais de vendas de açaí, proporcionando insights estratégicos sobre o desempenho das unidades e permitindo a previsão de faturamento futuro utilizando o modelo ARIMA.
 
 ## 🔧 Objetivo
 
 - Obter insides e realizar a previsão de faturamento do ano seguinte.
 
 ## 💻 Projeto
-O projeto foi desenvolvido totalmente em Python, com o objetivo de trazer insides e ajudar a empresa no entendimento da rotatividade
-de funcionários
+O projeto foi desenvolvido integralmente em Python, com o objetivo de gerar insights relevantes e realizar a previsão do faturamento para o ano de 2023, contribuindo para o planejamento estratégico da empresa.
 
 ## 👨‍💻 Tecnologias Utilizadas
 
