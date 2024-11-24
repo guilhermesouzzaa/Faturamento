@@ -1,4 +1,4 @@
-# Análise previsão de faturamento
+# Análise e previsão de faturamento
 Este é um projeto foi feito através de dados de faturamento de filiais de venda de açai, podendo trazer insides e a previsão de faturamento com Arima
 
 
